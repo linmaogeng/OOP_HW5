@@ -1,0 +1,19 @@
+HW5-Q2:
+
+a. The String call(int k) method  from Dog class would be called
+
+b. The toString() method from Cat class would be called
+
+c. Error
+
+d. The toString() method from the Object class would be called
+
+e. The call() method from Dog class would be called
+
+f. The toString(String b) method from Cat class would be called
+
+g. Error
+
+h. The feet() method from Pet class would be called
+
+i  Error
